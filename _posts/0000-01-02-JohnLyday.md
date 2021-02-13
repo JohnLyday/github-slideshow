@@ -2,7 +2,7 @@
 
 ---
 
-layout: slide
+These are the times that try men's souls.
 
 title: "Welcome to our second slide!"
 
